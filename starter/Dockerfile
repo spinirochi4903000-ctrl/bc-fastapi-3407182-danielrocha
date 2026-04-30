@@ -1,5 +1,5 @@
 # ============================================
-# DOCKERFILE - Proyecto API de Saludo
+# DOCKERFILE - Proyecto API de jardinería
 # ============================================
 
 FROM python:3.14-slim
